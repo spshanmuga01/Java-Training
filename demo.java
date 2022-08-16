@@ -1,6 +1,6 @@
 class demo{
-	public static void main(string args[]) {
-        system.out.println("Hello Java");
-        system.out.println("new page here tata");
-}
+	public static void main(String args[]) {
+                System.out.println("Hello Java");
+                System.out.println("new page is shown here ");
+        }
 }
