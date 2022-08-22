@@ -1,16 +1,10 @@
 class Repitative {
     public static void main(String[]args){
-for ( int first = 0; first < 5; first++) {
+        //printing hello world for 5 times
+    for ( int first = 0; first < 5; first++) {
 
 
-    System.out.println("hello world");
+        System.out.println("hello world");
 }
-
-
-
-
-
-
-
     }
 }
